@@ -1,6 +1,6 @@
 # Bank Management System
 
-A simple **console-based Bank Management System** developed using **Java** and **Object-Oriented Programming (OOP)** concepts.
+A simple **console-based Bank Management System** developed using **Java** and **Object-Oriented Programming (OOPs)** concepts.
 
 This project allows users to perform basic banking operations such as creating accounts, depositing money, withdrawing money, and checking account details through a menu-driven interface.
 
