@@ -1,4 +1,4 @@
-# Bank Management System
+# *Bank Management System*
 
 A simple **console-based Bank Management System** developed using **Java** and **Object-Oriented Programming (OOPs)** concepts.
 
